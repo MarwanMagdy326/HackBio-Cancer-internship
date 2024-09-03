@@ -1,6 +1,9 @@
 # HackBio-Cancer-internship
 
 ## The Role of Transcriptomics in Biomarker Discovery of Cancer: 
+## Author (@Slack): ##
+
+Marwan Magdy Mohamed Elsaid (@Marwan16)
 
 ## The Concept of Transcriptomics and Its Types 
 
